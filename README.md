@@ -10,7 +10,7 @@ Tech enthusiast since childhood with a love for puzzles, games, and music. I'm d
 My goal is to bring joy and positivity to people's lives through technology. Experienced in various programming languages and eager to learn new tools. 
 <br>
 <br>
-I cherish collaboration within the developer community and enjoy mentoring others. Work hard, Play hard philosophy guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
+I cherish collaboration within the developer community and enjoy mentoring others. The thrill of seeking a solutions is a philosophy that guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
 
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript Backend, NextJS, Svelte
