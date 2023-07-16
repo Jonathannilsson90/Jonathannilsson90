@@ -6,9 +6,11 @@ Fullstack.Student
 
 Tech enthusiast since childhood with a love for puzzles, games, and music. I'm driven by problem-solving challenges and coding complexities. With a passion for creating immersive experiences, I infuse creativity and rhythm into my projects. 
 <br>
+<br>
 My goal is to bring joy and positivity to people's lives through technology. Experienced in various programming languages and eager to learn new tools. 
 <br>
-I cherish collaboration within the developer community and enjoy mentoring others. Work Hard, Play Hard philosophy guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
+<br>
+I cherish collaboration within the developer community and enjoy mentoring others. Work hard, Play hard philosophy guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
 
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript Backend, NextJS, Svelte
