@@ -11,7 +11,7 @@ My goal is to bring joy and positivity to people's lives through technology. Exp
 I cherish collaboration within the developer community and enjoy mentoring others. The thrill of finding solutions is my philosophy and guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript Backend, NextJS, Svelte
-* ⚡  Fun fact: I can cook a really tasty lasagna
+* ⚡  Superpower: I can cook a really tasty lasagna
 
 <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
