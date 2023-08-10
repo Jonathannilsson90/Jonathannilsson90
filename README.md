@@ -4,17 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack.Student
 -----------------
 
-Tech enthusiast since childhood with a love for puzzles, games, and music. I'm driven by problem-solving challenges and coding complexities. With a passion for creating immersive experiences, I infuse creativity and rhythm into my projects. 
-My goal is to bring joy and positivity to people's lives through technology. Experienced in various programming languages and eager to learn new tools.
-<br>
-<br>
-I cherish collaboration within the developer community and enjoy mentoring others. The thrill of finding solutions is my philosophy and guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
+Tech enthusiast since childhood with a love for puzzles, games, and music. I'm driven by problem-solving challenges and coding complexities. With a passion for creating immersive experiences, I infuse creativity and rhythm into my projects. My goal is to bring joy and positivity to people's lives through technology. Experienced in various programming languages and eager to learn new tools. I cherish collaboration within the developer community and enjoy mentoring others. Work Hard, Play Hard philosophy guides my journey of exploration and innovation. Let's connect and make the world a more enjoyable place, one coding adventure at a time! 🚀🎮🎵
+
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript Backend, NextJS, Svelte
-* ⚡  Superpower: I can cook a really tasty lasagna
+* ⚡  Fun fact: I can cook a really tasty lasagna
 
 <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -40,8 +37,15 @@ src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-nilsson-aa1b63247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jonathan-nilsson-aa1b63247" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jonathannilsson90"><img src="https://github-readme-stats.vercel.app/api?username=Jonathannilsson90&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Jonathannilsson90's GitHub stats" /></a>
+<div>
+    <a href="https://github.com/Jonathannilsson90"">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathannilsson90&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%" />
+    </a>
+</div>
+    <a href="http://www.github.com/Jonathannilsson90">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jonathannilsson90&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Jonathannilsson90's GitHub stats" style="max-width: 100%" />
+    </a>
