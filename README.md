@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack.Student
 -----------------
 
-Tech enthusiast since childhood with a love for puzzles, games, and music. I'm driven by problem-solving challenges and coding complexities. With a passion for creating immersive experiences, I infuse creativity and rhythm into my projects. My goal is to bring joy and positivity to people's lives through technology. Experienced in various programming languages and eager to learn new tools. I cherish collaboration within the developer community and enjoy mentoring others.🚀🎮🎵
-
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript Backend, NextJS, Svelte
 * ⚡  Fun fact: I can cook a really tasty lasagna
