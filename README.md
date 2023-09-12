@@ -45,5 +45,5 @@ src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style
     </a>
 </div>
     <a href="http://www.github.com/Jonathannilsson90">
-        <img src="" alt="Jonathannilsson90's GitHub stats" style="max-width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathannilsson90" alt="Jonathannilsson90's GitHub stats" style="max-width: 100%" />
     </a>
