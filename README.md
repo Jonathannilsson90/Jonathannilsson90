@@ -41,9 +41,9 @@ src="https://img.shields.io/github/followers/Jonathannilsson90?logo=github&style
 
 <div>
     <a href="https://github.com/Jonathannilsson90"">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathannilsson90&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jonathannilsson90" alt="Top Languages" style="max-width: 100%" />
     </a>
 </div>
     <a href="http://www.github.com/Jonathannilsson90">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jonathannilsson90&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Jonathannilsson90's GitHub stats" style="max-width: 100%" />
+        <img src="" alt="Jonathannilsson90's GitHub stats" style="max-width: 100%" />
     </a>
