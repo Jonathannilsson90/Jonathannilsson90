@@ -5,7 +5,7 @@ Fullstack.Student
 -----------------
 
 * 🌍  I'm based in Stockholm
-* 🧠  I'm learning TypeScript Backend, NextJS, Svelte
+* 🧠  I'm learning NextJS, Svelte and Java
 * ⚡  Fun fact: I can cook a really tasty lasagna
 
 <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"><img
