@@ -5,7 +5,7 @@ Fullstack.Student
 -----------------
 
 * 🌍  I'm based in Stockholm
-* 🧠  I'm learning NextJS, Dotnet and Java
+* 🧠  I'm know NextJS, Dotnet and Java
 * ⚡  Fun fact: I can cook a really tasty lasagna
 
 <a href="https://www.github.com/Jonathannilsson90" target="_blank" rel="noreferrer"><img
